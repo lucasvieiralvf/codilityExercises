@@ -1,0 +1,2 @@
+# codilityExercises
+My codility exercises.
