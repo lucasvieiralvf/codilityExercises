@@ -1,0 +1,11 @@
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.csprojAssemblyReference.cache
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.csproj.CoreCompileInputs.cache
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.AssemblyInfoInputs.cache
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Codility\Frog\bin\Debug\netcoreapp2.2\frog.deps.json
+C:\Users\Lucas\Documents\Codility\Frog\bin\Debug\netcoreapp2.2\frog.runtimeconfig.json
+C:\Users\Lucas\Documents\Codility\Frog\bin\Debug\netcoreapp2.2\frog.runtimeconfig.dev.json
+c:\Users\Lucas\Documents\Codility\Frog\bin\Debug\netcoreapp2.2\frog.dll
+c:\Users\Lucas\Documents\Codility\Frog\bin\Debug\netcoreapp2.2\frog.pdb
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.dll
+c:\Users\Lucas\Documents\Codility\Frog\obj\Debug\netcoreapp2.2\frog.pdb

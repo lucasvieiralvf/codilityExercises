@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Codility\PermCheck\bin\Debug\netcoreapp2.2\permCheck.deps.json
+C:\Users\Lucas\Documents\Codility\PermCheck\bin\Debug\netcoreapp2.2\permCheck.runtimeconfig.json
+C:\Users\Lucas\Documents\Codility\PermCheck\bin\Debug\netcoreapp2.2\permCheck.runtimeconfig.dev.json
+c:\Users\Lucas\Documents\Codility\PermCheck\bin\Debug\netcoreapp2.2\permCheck.dll
+c:\Users\Lucas\Documents\Codility\PermCheck\bin\Debug\netcoreapp2.2\permCheck.pdb
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.csprojAssemblyReference.cache
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.csproj.CoreCompileInputs.cache
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.AssemblyInfoInputs.cache
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.AssemblyInfo.cs
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.dll
+c:\Users\Lucas\Documents\Codility\PermCheck\obj\Debug\netcoreapp2.2\permCheck.pdb
